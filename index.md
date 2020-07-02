@@ -6,7 +6,7 @@
     <base href="/">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
-    <link rel="stylesheet" href="styles.64a0c4e0d68099c4e409.css">
+    <link rel="stylesheet" href="https://yarikroterdamskiygmailcom.github.io/movie.list.github.io/styles.64a0c4e0d68099c4e409.css">
 </head>
 <body>
 <app-root></app-root>
